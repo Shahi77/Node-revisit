@@ -8,7 +8,7 @@ const result = fs.readFileSync("./test.txt", "utf-8");
 console.log(result);
 
 //fs.unlinkSync("./test.txt"); //To delete file
-console.log(fs.statSync("./test.txt")); // status of file
+console.log(fs.statSync("./test.txt")); // status offile
 
 /*
 Async
