@@ -1,3 +1,4 @@
 const math = require("./math");
 
-console.log("Addition is", math(2, 3));
+console.log("Subtraction is", math.subFn(99, 21));
+console.log("Addition is", math.addFn(33, 55));
