@@ -2,3 +2,4 @@
 1710653485877: GET: /api/users
 1710653494221: POST: /api/users
 1710653528590: GET: /api/users/1004
+1711029942650: GET: /api/users/
